@@ -1,58 +1,52 @@
-# React + TypeScript + Vite
+# 🧬 Genetiq v2 — Health Analytics & 3D Visualization Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and
-some ESLint rules.
+Genetiq v2 is an advanced digital health analytics application that merges **3D visualization**, **real-time health tracking**, and **personalized insights** to provide an interactive, data-driven view of human health.  
 
-Currently, two official plugins are available:
+This project focuses on **cardiovascular and general health monitoring** through a **3D digital twin interface**, offering users a more immersive and intelligent way to understand their wellness data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
-  uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)
-  uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Project Overview
 
-If you are developing a production application, we recommend updating the
-configuration to enable type aware lint rules:
+Genetiq v2 empowers users to:
+- Visualize health metrics in 3D through a digital human twin.
+- Track and analyze key health parameters.
+- Gain personalized insights through intelligent analytics.
+- Interact with data in a visually intuitive way.
 
-- Configure the top-level `parserOptions` property like this:
+> _“Turning your health data into a visual, intelligent experience.”_
 
-```js
-export default tseslint.config({
-	languageOptions: {
-		// other options...
-		parserOptions: {
-			project: ["./tsconfig.node.json", "./tsconfig.app.json"],
-			tsconfigRootDir: import.meta.dirname,
-		},
-	},
-});
-```
+---
 
-- Replace `tseslint.configs.recommended` to
-  `tseslint.configs.recommendedTypeChecked` or
-  `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install
-  [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and
-  update the config:
+## 🧠 Key Features
 
-```js
-// eslint.config.js
-import react from "eslint-plugin-react";
+- 🩺 **3D Digital Twin Visualization**
+- 📊 **Health Data Tracking**
+- ⚙️ **AI-Powered Analytics**
+- 🌐 **Modern UI/UX**
+- 🧩 **Modular Architecture**
 
-export default tseslint.config({
-	// Set the react version
-	settings: { react: { version: "18.3" } },
-	plugins: {
-		// Add the react plugin
-		react,
-	},
-	rules: {
-		// other rules...
-		// Enable its recommended rules
-		...react.configs.recommended.rules,
-		...react.configs["jsx-runtime"].rules,
-	},
-});
-```
+---
+
+## 🖼️ Project Preview
+
+### 📸 Screenshots  
+See detailed screenshots here → [**images/**](images/README.md)
+
+### 🎥 Demo Video  
+Watch demo videos here → [**videos/**](videos/README.md)
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/genetiq-v2.git
+cd genetiq-v2
+
+# Install dependencies
+npm install
+
+# Run the project
+npm start
