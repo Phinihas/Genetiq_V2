@@ -1,0 +1,31 @@
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to Genetiq Health Analytics",
+    "tracker": {
+      "title": "Health Tracker",
+      "cholesterol": "Cholesterol",
+      "resultsExpected": "results expected in",
+      "days": "days"
+    },
+    "concerns": {
+      "title": "Key Areas of Concern",
+      "showAll": "Show all",
+      "showLess": "Show Less"
+    },
+    "age": {
+      "title": "Age Analysis"
+    },
+    "system": {
+      "title": "System Details"
+    }
+  },
+  "common": {
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "english": "English",
+    "french": "Français"
+  }
+}

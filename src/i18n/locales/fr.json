@@ -1,0 +1,31 @@
+{
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bienvenue dans l'Analytique de Santé Genetiq",
+    "tracker": {
+      "title": "Suivi de Santé",
+      "cholesterol": "Cholestérol",
+      "resultsExpected": "résultats attendus dans",
+      "days": "jours"
+    },
+    "concerns": {
+      "title": "Domaines Clés de Préoccupation",
+      "showAll": "Afficher tout",
+      "showLess": "Afficher moins"
+    },
+    "age": {
+      "title": "Analyse d'Âge"
+    },
+    "system": {
+      "title": "Détails du Système"
+    }
+  },
+  "common": {
+    "language": "Langue",
+    "theme": "Thème",
+    "light": "Clair",
+    "dark": "Sombre",
+    "english": "English",
+    "french": "Français"
+  }
+}
