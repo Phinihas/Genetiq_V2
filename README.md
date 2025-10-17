@@ -2,8 +2,8 @@
 
 ## 🖼️ Project Preview
 
-### 📸 Screenshots
-Take a look at detailed screenshots:  
+### 📸 Screenshot
+Take a look at detailed screenshot:  
 <img width="1710" height="1112" alt="Screenshot of Genetiq v2 dashboard" src="https://github.com/user-attachments/assets/331d6656-5ae2-4ce4-8cdf-7b546425972c" />
 
 ### 🎥 Demo Video
